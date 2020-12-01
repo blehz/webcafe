@@ -185,6 +185,9 @@ footer{
   padding: 50px 50px;
   /* width: 70%; */
 }
+.center-txt{
+  text-align: center;
+}
 
 /* MAP */
 #location{
